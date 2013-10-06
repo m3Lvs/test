@@ -1,0 +1,1 @@
+C:\_Projects\temp\test\test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
